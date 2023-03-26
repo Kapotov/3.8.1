@@ -35,9 +35,11 @@ telnet route-views.routeviews.org
 Username: rviews
 show ip route x.x.x.x/32
 show bgp x.x.x.x/32
-```
+```![2023-03-26_17-35-18](https://user-images.githubusercontent.com/123774335/227782962-3eafd0c2-2181-4149-8952-e223f44ad944.png)
+
 
 2. Создайте dummy-интерфейс в Ubuntu. Добавьте несколько статических маршрутов. Проверьте таблицу маршрутизации.
+![2023-03-26_17-38-51](https://user-images.githubusercontent.com/123774335/227783216-2ac5f3e7-634c-4a21-872a-fe5497f61528.png)
 
 3. Проверьте открытые TCP-порты в Ubuntu. Какие протоколы и приложения используют эти порты? Приведите несколько примеров.
 
